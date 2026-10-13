@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 运行产物与日志
+*.log
+logs/
+
+# 本地临时诊断残留
+_diag_*.txt
+_*.py
+
+# 系统文件
+.DS_Store
+Thumbs.db
